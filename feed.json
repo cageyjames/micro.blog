@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://fee.micro.blog/2022/06/30/kona.html",
+				
+				"content_html": "<p>Kona</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Kona\n\n<img src=\"uploads/2022/c010934bbf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-06-30T21:34:10-07:00",
+				"url": "https://jamesfee.org/2022/06/30/kona.html"
+			},
+			{
 				"id": "http://fee.micro.blog/2022/06/03/my-gis-skills.html",
 				"title": "My GIS Skills",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/38ff59df36.jpg\" alt=\"Gis\" title=\"gis.jpg\" border=\"0\" width=\"2160\" height=\"1350\" />\n",
+				"content_html": "<p><!-- raw HTML omitted --> 📷</p>\n",
+				"content_text": "<img src=\"uploads/2022/38ff59df36.jpg\" alt=\"Gis\" title=\"gis.jpg\" border=\"0\" width=\"2160\" height=\"1350\" /> 📷\n",
 				"date_published": "2022-06-03T10:34:02-07:00",
 				"url": "https://jamesfee.org/2022/06/03/my-gis-skills.html"
 			},
@@ -74,7 +82,7 @@
 				"id": "http://fee.micro.blog/2022/05/15/spring.html",
 				
 				"content_html": "<p>Spring! Emmy picking flowers.  She&rsquo;s a child of the earth. 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spring! Emmy picking flowers.  She's a child of the earth. 📷\n\n<img src=\"https://jamesfee.org/uploads/2022/5e9284ea0b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Spring! Emmy picking flowers.  She's a child of the earth. 📷\n\n<img src=\"uploads/2022/5e9284ea0b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-15T13:51:00-07:00",
 				"url": "https://jamesfee.org/2022/05/15/spring.html"
 			},
@@ -82,7 +90,7 @@
 				"id": "http://fee.micro.blog/2022/05/15/connor-in-italy.html",
 				"title": "Connor in Italy",
 				"content_html": "<p>My son&rsquo;s graduation present (delayed a year because of COVID) was a trip to Italy.  I&rsquo;m stuck at home with two sick kids with earaches, watching him through <a href=\"https://en.wikipedia.org/wiki/Find_My\">Find My app</a>.  I&rsquo;m so proud of him and excited for him to see Italy.</p>\n<!-- raw HTML omitted -->\n<p>Plus he got to buy his first legal beer at the Heathrow Airport.</p>\n<!-- raw HTML omitted -->\n<p>🇮🇹</p>\n",
-				"content_text": "My son's graduation present (delayed a year because of COVID) was a trip to Italy.  I'm stuck at home with two sick kids with earaches, watching him through [Find My app](https://en.wikipedia.org/wiki/Find_My).  I'm so proud of him and excited for him to see Italy.\n\n<img src=\"https://jamesfee.org/uploads/2022/fe856bbb66.png\" alt=\"Connor in Rome\" title=\"Connor_in_Rome_2022.png\" border=\"0\" width=\"450\" />\n\nPlus he got to buy his first legal beer at the Heathrow Airport.  \n\n<img src=\"https://jamesfee.org/uploads/2022/9ecd18a66d.png\" alt=\"IMG 4569\" title=\"IMG_4569.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n🇮🇹\n",
+				"content_text": "My son's graduation present (delayed a year because of COVID) was a trip to Italy.  I'm stuck at home with two sick kids with earaches, watching him through [Find My app](https://en.wikipedia.org/wiki/Find_My).  I'm so proud of him and excited for him to see Italy.\n\n<img src=\"uploads/2022/fe856bbb66.png\" alt=\"Connor in Rome\" title=\"Connor_in_Rome_2022.png\" border=\"0\" width=\"450\" />\n\nPlus he got to buy his first legal beer at the Heathrow Airport.  \n\n<img src=\"uploads/2022/9ecd18a66d.png\" alt=\"IMG 4569\" title=\"IMG_4569.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n🇮🇹\n",
 				"date_published": "2022-05-15T13:12:21-07:00",
 				"url": "https://jamesfee.org/2022/05/15/connor-in-italy.html"
 			},
@@ -98,7 +106,7 @@
 				"id": "http://fee.micro.blog/2022/05/12/end-of-ipod.html",
 				"title": "End of iPod",
 				"content_html": "<p>I was just thinking about the iPod today and how it used to be such a critical part of my life.  Now not only do I not use an iPod but I don&rsquo;t even buy my music anymore, just use <a href=\"https://www.apple.com/apple-music/\">Apple Music</a>.  But back then, fitting all my music on an iPod was amazing.</p>\n<p>The last iPod I ever bought was this one, an iPod nano 7th generation.</p>\n<!-- raw HTML omitted -->\n<p>I bought it for my wedding back in 2015.  I wanted to make sure our song for the first dance was not screwed up and I had zero faith the band could manage it without something as simple as an iPod.  Because engraving was free, I added this touch.</p>\n<!-- raw HTML omitted -->\n<p>It ended up being true. 🎶</p>\n",
-				"content_text": "I was just thinking about the iPod today and how it used to be such a critical part of my life.  Now not only do I not use an iPod but I don't even buy my music anymore, just use [Apple Music](https://www.apple.com/apple-music/).  But back then, fitting all my music on an iPod was amazing.  \n\nThe last iPod I ever bought was this one, an iPod nano 7th generation.\n\n<img src=\"https://fee.micro.blog/uploads/2022/e7a27e1ae2.png\" alt=\"7th generation iPod nano\" title=\"7th generation iPod nano\" border=\"0\" width=\"450\" height=\"600\" />\n\nI bought it for my wedding back in 2015.  I wanted to make sure our song for the first dance was not screwed up and I had zero faith the band could manage it without something as simple as an iPod.  Because engraving was free, I added this touch.\n\n<img src=\"https://fee.micro.blog/uploads/2022/b94a765ce3.png\" alt=\"Last iPod\" title=\"Back of the nano\" border=\"0\" width=\"599\" height=\"490\" />\n\nIt ended up being true. 🎶\n",
+				"content_text": "I was just thinking about the iPod today and how it used to be such a critical part of my life.  Now not only do I not use an iPod but I don't even buy my music anymore, just use [Apple Music](https://www.apple.com/apple-music/).  But back then, fitting all my music on an iPod was amazing.  \n\nThe last iPod I ever bought was this one, an iPod nano 7th generation.\n\n<img src=\"uploads/2022/e7a27e1ae2.png\" alt=\"7th generation iPod nano\" title=\"7th generation iPod nano\" border=\"0\" width=\"450\" height=\"600\" />\n\nI bought it for my wedding back in 2015.  I wanted to make sure our song for the first dance was not screwed up and I had zero faith the band could manage it without something as simple as an iPod.  Because engraving was free, I added this touch.\n\n<img src=\"uploads/2022/b94a765ce3.png\" alt=\"Last iPod\" title=\"Back of the nano\" border=\"0\" width=\"599\" height=\"490\" />\n\nIt ended up being true. 🎶\n",
 				"date_published": "2022-05-12T14:28:00-07:00",
 				"url": "https://jamesfee.org/2022/05/12/end-of-ipod.html"
 			},
@@ -114,7 +122,7 @@
 				"id": "http://fee.micro.blog/2022/05/12/micro-blogging-over.html",
 				"title": "Micro blogging over Twitter",
 				"content_html": "<p>I&rsquo;ve been thinking about how to start sharing content again.  I have a couple ways in the past but they are all disjointed:</p>\n<ul>\n<li>\n<p><a href=\"https://www.spatiallyadjusted.com\">Spatially Adjusted</a> - my blog I&rsquo;ve been posting to since 2005.  I feel like has done what it needed to do and I need to move on.  Great content, but that&rsquo;s not how I work anymore.</p>\n</li>\n<li>\n<p><a href=\"http://spatialtau.spatiallyadjusted.com\">Spatial Tau</a> - my newsletter.  I&rsquo;ve been hot and cold with this, I have some of the best reactions from people about it, but I don&rsquo;t like the interface.  I <em>could</em> move people over here but I don&rsquo;t know if that is the best solution.  Maybe content is needed.</p>\n</li>\n<li>\n<p>Podcasts - I&rsquo;ve had a couple; <a href=\"https://www.youtube.com/channel/UC_Yvo5bLRe17RR0nNvy6L0Q\">Hangouts with James Fee</a>, Cageyjames and Geobabbler are probably the two biggest ones.  I just haven&rsquo;t had time to edit a podcast anymore.</p>\n</li>\n<li>\n<p><a href=\"https://www.twitter.com/cageyjames\">Twitter</a> - @cageyjames&hellip; enough said</p>\n<p>I backed micro.blog years ago on Kickstarter and I&rsquo;ve liked the interface, so maybe this is where I&rsquo;ll try and post now.  I reserve the right to change my mind.</p>\n</li>\n</ul>\n<p>Photo by <a href=\"https://unsplash.com/@heytowner\">JOHN TOWNER</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've been thinking about how to start sharing content again.  I have a couple ways in the past but they are all disjointed:\n\n* [Spatially Adjusted](https://www.spatiallyadjusted.com) - my blog I've been posting to since 2005.  I feel like has done what it needed to do and I need to move on.  Great content, but that's not how I work anymore.\n* [Spatial Tau](http://spatialtau.spatiallyadjusted.com) - my newsletter.  I've been hot and cold with this, I have some of the best reactions from people about it, but I don't like the interface.  I *could* move people over here but I don't know if that is the best solution.  Maybe content is needed.\n* Podcasts - I've had a couple; [Hangouts with James Fee](https://www.youtube.com/channel/UC_Yvo5bLRe17RR0nNvy6L0Q), Cageyjames and Geobabbler are probably the two biggest ones.  I just haven't had time to edit a podcast anymore.\n* [Twitter](https://www.twitter.com/cageyjames) - @cageyjames... enough said\n\n  I backed micro.blog years ago on Kickstarter and I've liked the interface, so maybe this is where I'll try and post now.  I reserve the right to change my mind.\n  \nPhoto by [JOHN TOWNER](https://unsplash.com/@heytowner)\n\n<img src=\"https://fee.micro.blog/uploads/2022/4887dbee4d.jpg\" width=\"600\" height=\"475\" alt=\"\" />\n",
+				"content_text": "I've been thinking about how to start sharing content again.  I have a couple ways in the past but they are all disjointed:\n\n* [Spatially Adjusted](https://www.spatiallyadjusted.com) - my blog I've been posting to since 2005.  I feel like has done what it needed to do and I need to move on.  Great content, but that's not how I work anymore.\n* [Spatial Tau](http://spatialtau.spatiallyadjusted.com) - my newsletter.  I've been hot and cold with this, I have some of the best reactions from people about it, but I don't like the interface.  I *could* move people over here but I don't know if that is the best solution.  Maybe content is needed.\n* Podcasts - I've had a couple; [Hangouts with James Fee](https://www.youtube.com/channel/UC_Yvo5bLRe17RR0nNvy6L0Q), Cageyjames and Geobabbler are probably the two biggest ones.  I just haven't had time to edit a podcast anymore.\n* [Twitter](https://www.twitter.com/cageyjames) - @cageyjames... enough said\n\n  I backed micro.blog years ago on Kickstarter and I've liked the interface, so maybe this is where I'll try and post now.  I reserve the right to change my mind.\n  \nPhoto by [JOHN TOWNER](https://unsplash.com/@heytowner)\n\n<img src=\"uploads/2022/4887dbee4d.jpg\" width=\"600\" height=\"475\" alt=\"\" />\n",
 				"date_published": "2022-05-12T11:24:00-07:00",
 				"url": "https://jamesfee.org/2022/05/12/micro-blogging-over.html"
 			}
