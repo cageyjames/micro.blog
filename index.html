@@ -24,6 +24,74 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://jamesfee.org/2025/02/11/blog-series-my-favorite-file.html">Blog Series: My 5 Favorite File Formats and Why They Still Matter</a></h1>
+		
+
+		<a href="https://jamesfee.org/2025/02/11/blog-series-my-favorite-file.html" class="u-url"><time class="dt-published" datetime="2025-02-11 13:14:24 -0700">Feb 11, 2025</time></a>
+
+		<div class="e-content">
+			 <p>Data formats play a fundamental role in software development and data management, influencing how information is stored, shared, and analyzed. While some formats endure due to their efficiency and adaptability, others persist despite technological advancements, often lingering as legacy artifacts within various industries.</p>
+<p>With way too many years of experience working with both spatial and non-spatial data, I have encountered a vast array of file formats—each with its strengths, limitations, and occasional frustrations.</p>
+<p>In this five-part blog series, I will explore my five preferred file formats, examining the factors that have contributed to their longevity, their relevance in modern workflows, and the lessons they offer for the future of data management.</p>
+<p>First off, the most popular database in the world, Microsoft Excel.</p>
+<p><em><strong>Excel: The Ubiquitous Spreadsheet That Endures</strong></em>
+<strong>Introduction: The Unshakable Dominance of Excel</strong>
+Few software tools have achieved the longevity and ubiquity of Microsoft Excel. Since its introduction in the 1980s, Excel has become an indispensable tool across industries, used by financial analysts, project managers, scientists, and even GIS professionals—despite its fundamental limitations as a database or spatial data format.
+While modern cloud platforms, relational databases, and specialized analytics tools have reshaped data management, Excel persists. It remains the default choice for millions, not necessarily because it is the most sophisticated tool for the job, but because it is accessible, familiar, and highly adaptable.
+Yet, with its versatility comes a set of well-documented pitfalls. From data corruption caused by automatic formatting to inefficiencies in managing large datasets, Excel often creates as many challenges as it solves. This post examines why Excel remains an essential tool, explores its misapplications in data management—particularly in geospatial workflows—and offers best practices for using it effectively in a modern data environment.
+<strong>The Accidental GIS: How Excel Became a Spatial Data Format</strong>
+Excel was never designed to handle spatial data, yet it continues to be used as a GIS tool in environments where dedicated spatial databases or platforms are unavailable—or where users lack familiarity with them. The result is a widespread misuse of Excel as an informal GIS system, leading to inefficiencies, errors, and compatibility issues.
+Common Misuses of Excel in Spatial Data Management	1.	Storing Coordinate Data Without Standardization	•	Latitude and longitude values are often stored in separate columns, but inconsistencies arise when formats vary—some datasets use decimal degrees, while others mix degrees, minutes, and seconds.	•	Fields are frequently mislabeled (Lat, Long, X, Y), sometimes reversed, and often contain text entries that disrupt automated processing.	2.	Mixing Data Types in a Single Column	•	A column meant for numerical coordinates may contain a mix of numbers, text entries (“N/A”), or empty cells, leading to inaccuracies when processed in other systems.	3.	Manually Performing Spatial Joins	•	Instead of using spatial databases or GIS tools to join datasets based on geographic relationships, some professionals resort to copying and pasting between Excel tabs, increasing the risk of human error.
+<strong>Why Excel Persists in Spatial Workflows</strong>
+Despite its shortcomings, Excel is often chosen for GIS-related tasks because:	•	It is universally available—virtually every organization uses it.	•	It allows for quick, ad-hoc analysis without requiring specialized GIS knowledge.	•	It integrates easily with other software, making it a convenient intermediary between data sources.
+However, these advantages do not negate its limitations, particularly when handling complex spatial data.
+<strong>The Strengths of Excel: Why It Remains Essential</strong>
+For all its inefficiencies, Excel possesses unique qualities that contribute to its enduring relevance. These characteristics make it particularly useful for quick analyses and lightweight data management.</p>
+<ol>
+<li>Universal Adoption and Ease of Use
+Few software tools have achieved Excel’s level of adoption. Even users with limited technical expertise can sort, filter, and manipulate data without requiring specialized training, making it a go-to solution for data organization.</li>
+<li>Pivot Tables and Instant Data Visualization
+Excel’s pivot tables enable users to quickly summarize large datasets, creating insights without writing complex SQL queries or developing custom reports. Similarly, built-in charting and visualization tools provide immediate graphical representations of data.</li>
+<li>Portability and Flexibility
+Excel files are easily shared via email, cloud storage, or messaging platforms. Unlike databases or APIs that require configuration, an Excel file is a self-contained dataset that can be opened and edited anywhere.</li>
+<li>Integration with Other Tools
+From Power BI to GIS software like ArcGIS and QGIS, Excel is widely supported across platforms, serving as an intermediary format for various workflows.
+<strong>The Challenges of Using Excel for Data Management</strong>
+While Excel’s strengths have made it indispensable, its limitations have led to countless inefficiencies and errors in data management.</li>
+<li>Automatic Formatting Corrupts Data
+Excel automatically reformats certain types of data, often without user input. This is particularly problematic for:	•	Postal codes (e.g., “00501” is converted to “501”)	•	Dates (e.g., “2024-02-01” becomes “Feb 1, 2024” or a different format entirely)	•	Scientific notation for long numbers (e.g., large numerical IDs are converted into exponent notation)
+Such transformations, while seemingly minor, can corrupt datasets, especially when exported to other systems.</li>
+<li>Lack of Version Control and Data Integrity
+Without a structured version control system, Excel files are often duplicated, edited by multiple users, and renamed inconsistently. This results in confusion and errors, with multiple conflicting versions of the same dataset circulating within an organization.	•	&ldquo;Data_Final.xlsx&rdquo;	•	&ldquo;Data_Final_v2.xlsx&rdquo;	•	&ldquo;Data_Final_v2_UPDATED.xlsx&rdquo;	•	&ldquo;Data_FINAL(REAL).xlsx&rdquo;
+This lack of control frequently leads to discrepancies in reporting and decision-making.</li>
+<li>Performance Limitations on Large Datasets
+While Excel is efficient for datasets with thousands of rows, performance degrades significantly when handling hundreds of thousands or millions of records. Large files become slow, formulas take longer to compute, and crashes become common.
+For truly large-scale data management, SQL databases, cloud-based analytics tools, or big data frameworks offer far more robust solutions.</li>
+<li>Poor Support for Multi-User Collaboration
+Despite improvements in Excel Online, the traditional desktop version struggles with real-time collaboration. Without proper locking mechanisms or role-based access control, simultaneous edits can lead to data overwrites or inconsistencies.
+<strong>Using Excel Responsibly</strong>
+Given Excel’s strengths and weaknesses, it is best used as an analytical tool rather than a primary data management solution. Here are best practices to mitigate common pitfalls:</li>
+<li>Disable Autoformatting
+While you don&rsquo;t have control over every file, yo prevent Excel from modifying data, adjust settings in:File → Options → Proofing → AutoCorrect Options</li>
+<li>Convert Data into Tables for Consistency
+Using the Table feature (Ctrl + T on Windows, Cmd + T on Mac) ensures structured, reliable sorting and filtering.</li>
+<li>Store Long-Term Data in Databases, Not Excel
+For mission-critical data, store records in SQL databases, cloud-based systems, or version-controlled repositories. Excel should be used for analysis, not storage.  Easy enough to get the data out, you should as soon as possible.</li>
+<li>Use Excel Only for Small-Scale Spatial Data Workflows
+As mentioned, nothing in Excel is spatially aware.  If handling geospatial data, consider GeoJSON, PostGIS, or even Shapefiles for structured, spatially-aware datasets.<br>
+<strong>Conclusion: The Enduring Relevance of Excel</strong>
+Despite its challenges, Excel remains an essential tool across industries. Its widespread adoption, ease of use, and versatility make it indispensable—even as more sophisticated data management solutions continue to emerge.
+However, responsible usage is key. Excel should not replace databases, GIS platforms, or cloud-based analytics tools, but it can serve as a valuable intermediary for data analysis and reporting. By understanding its limitations and applying best practices, professionals can maximize its utility while avoiding its common pitfalls.
+What’s Next?
+In the next installment of this series, I will examine the format that was introduced in the mid-90s, another enduring data structure that, despite its limitations, continues to be widely used in geospatial applications.</li>
+</ol>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://jamesfee.org/2024/09/25/trying-hard-not.html">Trying hard not to stand on the cracks</a></h1>
 		
 
